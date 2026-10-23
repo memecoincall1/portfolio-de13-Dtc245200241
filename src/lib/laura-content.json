@@ -1,0 +1,785 @@
+{
+  "books": [
+    {
+      "title": "Mere Christianity",
+      "author": "C.S. Lewis",
+      "cover": "/__l5e/assets-v1/2b5e4da2-cfe5-4be0-a0b9-ad6abe77bcea/mere-christianity.jpg",
+      "reading": true
+    },
+    {
+      "title": "I Saw Satan Fall Like Lightning",
+      "author": "René Girard",
+      "cover": "/__l5e/assets-v1/bd6befc4-f28a-45ef-abc5-e7bc5cb8137c/i-saw-satan-fall-like-lightning.jpg",
+      "reading": true
+    },
+    {
+      "title": "A Return to Love",
+      "author": "Marianne Williamson",
+      "cover": "/__l5e/assets-v1/7bb07eeb-3972-4eb7-8234-1b94580da92f/a-return-to-love.jpg",
+      "reading": false
+    },
+    {
+      "title": "The Almanack of Naval Ravikant",
+      "author": "Eric Jorgenson",
+      "cover": "/__l5e/assets-v1/b03c3e0b-dce7-4cc9-91c2-0a846d6ea10c/almanack-of-naval-ravikant.jpg",
+      "reading": false
+    },
+    {
+      "title": "Untethered Soul",
+      "author": "Michael A. Singer",
+      "cover": "/__l5e/assets-v1/ca2254ee-a45e-4011-a8ad-b5e011aba2f5/untethered-soul.jpg",
+      "reading": false
+    },
+    {
+      "title": "The Odyssey",
+      "author": "Homer",
+      "cover": "/__l5e/assets-v1/72cf7889-c5b0-46a3-a5b2-0b2e9f06fc52/the-odyssey.jpg",
+      "reading": false
+    },
+    {
+      "title": "Outlander Book 1",
+      "author": "Diana Gabaldon",
+      "cover": "/__l5e/assets-v1/5a7335e2-bece-4833-a45d-f701fc464e67/outlander.jpg",
+      "reading": false
+    },
+    {
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "cover": "/__l5e/assets-v1/48c25485-53c0-49b7-85a2-ad0f4dd62302/brave-new-world.jpg",
+      "reading": false
+    },
+    {
+      "title": "When Breath Becomes Air",
+      "author": "Paul Kalanithi",
+      "cover": "/__l5e/assets-v1/eda5e20a-74a1-43d3-b8f1-722131ca1357/when-breath-becomes-air.jpg",
+      "reading": false
+    },
+    {
+      "title": "The Power of Now",
+      "author": "Eckhart Tolle",
+      "cover": "/__l5e/assets-v1/cb50d2b8-5f40-48bf-bf1e-3c4c68ee0b86/the-power-of-now.jpg",
+      "reading": false
+    },
+    {
+      "title": "The Real Anthony Fauci",
+      "author": "Robert F. Kennedy Jr.",
+      "cover": "/__l5e/assets-v1/a5d3bec8-2a82-4905-8a1b-06129f307de0/the-real-anthony-fauci.jpg",
+      "reading": false
+    },
+    {
+      "title": "All the Light We Cannot See",
+      "author": "Anthony Doerr",
+      "cover": "/__l5e/assets-v1/dca3561c-dde3-4922-a485-ac21ef44cdbb/all-the-light-we-cannot-see.jpg",
+      "reading": false
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "cover": "/__l5e/assets-v1/b6ab491f-16d5-405a-a2b1-600671a32a79/to-kill-a-mockingbird.jpg",
+      "reading": false
+    },
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "cover": "/__l5e/assets-v1/c4db7348-3fbf-4e0c-9a1b-f927afad62bc/the-great-gatsby.jpg",
+      "reading": false
+    },
+    {
+      "title": "48 Laws of Power",
+      "author": "Robert Greene",
+      "cover": "/__l5e/assets-v1/c39f737d-48ae-4e73-a94f-7effd4c9acaf/48-laws-of-power.jpg",
+      "reading": false
+    },
+    {
+      "title": "The Case for the Resurrection of Jesus",
+      "author": "Habermas & Licona",
+      "cover": "/__l5e/assets-v1/acc45dbd-82ba-4e86-a845-66f53e0d8815/case-for-the-resurrection-of-jesus.jpg",
+      "reading": false
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "cover": "/__l5e/assets-v1/a2c928f0-cc23-4912-b9e7-c99a9e599350/1984.jpg",
+      "reading": false
+    },
+    {
+      "title": "The Handmaid's Tale",
+      "author": "Margaret Atwood",
+      "cover": "/__l5e/assets-v1/9bd22475-177a-4c02-8dca-01b69d6b299e/the-handmaids-tale.jpg",
+      "reading": false
+    }
+  ],
+  "articles": [
+    {
+      "id": "note-vc-0",
+      "title": "The Best Deal Flow Comes When You're Not Looking",
+      "preview": "There's a saying about relationships: when you're desperately searching, you won't find it...",
+      "date": "Mar 2026",
+      "category": "vc",
+      "body": [
+        {
+          "tag": "p",
+          "text": "There's a saying about relationships: when you're desperately searching, you won't find it. But when you stop looking and just live your life, it finds you. I've learned this applies just as much to sourcing great deals."
+        },
+        {
+          "tag": "h3",
+          "text": "The Network Effect of Reputation"
+        },
+        {
+          "tag": "p",
+          "text": "Working at milemark showed me firsthand what being embedded in an ecosystem does. When you're genuinely active in Cambridge, engaging with MIT and Harvard founders, attending events, building real relationships,deal flow becomes a byproduct, not a hunt."
+        },
+        {
+          "tag": "p",
+          "text": "The same principle applies to building in public on social media. Watching my friends create, share their journeys, and put themselves out there,their reputation speaks before they even send a pitch. When you consistently show up, share what you're learning, and add value, the right opportunities find you."
+        },
+        {
+          "tag": "h3",
+          "text": "Network Effects Working in Your Favor"
+        },
+        {
+          "tag": "p",
+          "text": "All of this comes down to one thing: when your reputation and network effects work for themselves, the right investments come to you."
+        },
+        {
+          "tag": "p",
+          "text": "The younger colleague you mentored. The person you said yes to for a coffee chat when you were busy. The founder you gave honest feedback to even when you passed on their company. These moments compound."
+        },
+        {
+          "tag": "p",
+          "text": "Giving without constantly calculating ROI isn't just good karma,it's strategic. The best deals, connections, and relationships come from people I least expected. A casual conversation at an event. A Twitter DM from someone following my journey. A warm intro from someone I helped months ago."
+        },
+        {
+          "tag": "h3",
+          "text": "Why This Matters for Investing"
+        },
+        {
+          "tag": "p",
+          "text": "Traditional sourcing: cold outreach, pitch competitions, spray-and-pray networking."
+        },
+        {
+          "tag": "p",
+          "text": "What actually works: being someone founders want in their cap table. Building a reputation for being helpful, insightful, and genuinely interested in builders. Showing up consistently in the communities where great companies are being built."
+        },
+        {
+          "tag": "p",
+          "text": "Your reputation compounds over time and surfaces opportunities when you least expect it. This applies whether you're a VC looking for deals, a founder raising capital, or anyone building their career."
+        },
+        {
+          "tag": "p",
+          "text": "The best investments don't come from hunting,they come from building the kind of reputation that makes great founders want to work with you."
+        },
+        {
+          "tag": "p",
+          "text": "Stop optimizing every interaction for immediate return. Start building genuine relationships, sharing your journey publicly, and adding value wherever you can. The deal flow will follow."
+        }
+      ]
+    },
+    {
+      "id": "note-vc-1",
+      "title": "Social Media: Good or Bad for Founders?",
+      "preview": "I keep seeing viral founders 'building in public', people my age dropping out of college...",
+      "date": "Mar 2026",
+      "category": "vc",
+      "body": [
+        {
+          "tag": "p",
+          "text": "I keep seeing viral founders \"building in public\", people my age dropping out of college, or ditching the idea of a degree entirely, which made me think."
+        },
+        {
+          "tag": "em",
+          "text": "\"Is the higher education crisis unique to Gen Z, or was this phenomenon common in previous generations and we just didn't have social media to see the full effects?\""
+        },
+        {
+          "tag": "p",
+          "text": "I decided to explore the rabbit hole of the impact of media and startups. I interviewed founders and VCs across three generations,from Gen Z natives to Gen X,to see how social media is actually rewiring the startup world. The people I spoke with have cumulatively raised ~$200M+. If you don't want to read the full 20-page paper, here's the TLDR:"
+        },
+        {
+          "tag": "h3",
+          "text": "The Distortion is Structural (It's the Algorithm, not just the People)"
+        },
+        {
+          "tag": "p",
+          "text": "It's a running joke at Stanford that it's harder to get a corporate job than to get into YC. If your only lens is your X timeline, you're seeing a structural product of how platforms work. Founders aren't inherently trying to lie,but it happens because of how platforms are structured."
+        },
+        {
+          "tag": "p",
+          "text": "Algorithms amplify high-engagement wins and \"launch videos\" while suppressing the \"boring\" daily grind. This creates a world where success looks common, easy, and like the default."
+        },
+        {
+          "tag": "h3",
+          "text": "The \"Compressed Narrative\" Trap"
+        },
+        {
+          "tag": "p",
+          "text": "Social media forces founders to collapse years of messy, non-linear work into 30-second highlights. This \"Temporal Compression\" makes it impossible to see the 5–10 year timeline actually required for real success."
+        },
+        {
+          "tag": "p",
+          "text": "You see the success. You don't see the founder being the last person to get a paycheck. You don't see the everyday struggle of working weekends and slowly watching it seep into your personal relationships. The paranoia of whether you're going to survive or not."
+        },
+        {
+          "tag": "h3",
+          "text": "The \"Attention Economy\" vs. Building"
+        },
+        {
+          "tag": "p",
+          "text": "We live in the era of \"permissionless leverage\",you don't need a gatekeeper to build or distribute anymore. But that comes with an Attention Economy Trap: the pressure to allocate significant time to content creation and personal brand to attract distribution, talent, and investors."
+        },
+        {
+          "tag": "p",
+          "text": "Modern founders face a brutal trade-off. This often incentivizes \"performative entrepreneurship,\" where maintaining the vibe of a startup takes precedence over the actual product. So it's important not to get lost in the hype,one viral launch video may not translate into actual tangible ROI. Build something thoughtful first, then distribute properly."
+        },
+        {
+          "tag": "h3",
+          "text": "False Pattern Recognition = Bad Risk Assessment"
+        },
+        {
+          "tag": "p",
+          "text": "Constant exposure to peers \"crushing it\" creates an upward-only social comparison. It leads 18–24 year-olds to make irreversible life decisions,like dropping out,based on the false belief that starting a company is \"easier\" than a corporate job."
+        },
+        {
+          "tag": "p",
+          "text": "Yes, people dropped out of college in the past, but not to this extreme. The increase is driven not only by social media but also by AI democratizing access to education and resources. This raises a critical question: what is the true value proposition of a university when a degree no longer automatically guarantees a job?"
+        },
+        {
+          "tag": "p",
+          "text": "Ultimately, taking a risk on yourself is great,but don't do it because of FOMO. There is zero shame in taking a corporate job to learn the ropes. Every path is unique. Don't compare your behind-the-scenes to someone else's viral video."
+        }
+      ]
+    },
+    {
+      "id": "note-community-0",
+      "title": "Community and the Importance of Building in Public",
+      "preview": "With the rise of launch videos, a16z building an entire media team, and startups like Cluely growing through virality...",
+      "date": "Mar 2026",
+      "category": "community",
+      "body": [
+        {
+          "tag": "p",
+          "text": "With the rise of launch videos, a16z building an entire media team alongside their VC operations, and startups like Cluely growing through rage-baiting and virality, a new question emerges: what is the true importance of building in public,what Naval calls \"building with your garage door up\"?"
+        },
+        {
+          "tag": "p",
+          "text": "Today's consumer behavior favors authenticity over perfection, and the journey over the final product. Documenting the setbacks, decisions, failures, and messy middle of building is no longer optional,it's an advantage."
+        },
+        {
+          "tag": "p",
+          "text": "There is a paradigm shift in how startups should approach content and branding. You no longer need to wait until everything is perfect before you launch. In fact, the imperfections are often what draw people in."
+        },
+        {
+          "tag": "p",
+          "text": "However,this is where I challenge the current trend."
+        },
+        {
+          "tag": "p",
+          "text": "While rage-baiting and constantly trying to go viral may bring attention, attention without substance is empty. There must be a balance between storytelling and shipping. Going viral is not a business model. A startup still needs deep product quality, intentional design, and long-term vision."
+        },
+        {
+          "tag": "h3",
+          "text": "Virality Is a Double-Edged Sword"
+        },
+        {
+          "tag": "p",
+          "text": "Startups should be careful not to rely solely on viral launch videos for conversion. If a launch goes viral, there is immediate pressure to ship quickly and capitalize on the attention before people forget. And in the internet era,especially on X,people forget fast."
+        },
+        {
+          "tag": "p",
+          "text": "The same speed at which you gain attention is the same speed at which you can lose it."
+        },
+        {
+          "tag": "p",
+          "text": "So yes, content matters. But so does timing, momentum, and operational readiness. You must be ready to execute the moment the spotlight hits."
+        },
+        {
+          "tag": "h3",
+          "text": "The Power of Environment and Community"
+        },
+        {
+          "tag": "p",
+          "text": "Who you surround yourself with and the community you build in matters just as much as the product. Being in the major innovation hub for your industry keeps you sharp. When you see competition moving in real-time, it forces urgency and focus. There's value in having your boots on the ground."
+        },
+        {
+          "tag": "p",
+          "text": "A lot of people believe you need to be in SF or NYC to succeed, and while those hubs do offer insane access, I think there's also value in escaping the echo chamber."
+        },
+        {
+          "tag": "p",
+          "text": "There's something powerful about being a digital nomad in a foreign country, still surrounded by like-minded founders, but outside the noise and performative culture of traditional hubs. (Shoutout to my friends at The Network School, who are literally doing this right now.)"
+        },
+        {
+          "tag": "p",
+          "text": "Communities like The Network School, and other founder ecosystems outside the U.S., are proving you can replicate the energy of SF,but with more genuineness and less ego."
+        },
+        {
+          "tag": "h3",
+          "text": "Why I'm Building Figure"
+        },
+        {
+          "tag": "p",
+          "text": "The reason I'm building Figure and hosting community events this year is simple: community and connection are at the core of what I care about."
+        },
+        {
+          "tag": "p",
+          "text": "Yes, moving to a city where your industry is thriving has value. But not everyone has the resources or flexibility to relocate due to jobs, school, money, or family."
+        },
+        {
+          "tag": "p",
+          "text": "My goal is to bring that same access and energy to the people who are outside the major hubs. To empower individuals to feel seen, heard, and connected. To break the gatekeeping of \"you must be in SF to matter.\""
+        },
+        {
+          "tag": "p",
+          "text": "Because at the end of the day, startups are built by people,and people thrive in community."
+        }
+      ]
+    },
+    {
+      "id": "note-reflections-0",
+      "title": "Medicine 3.0: Gen Z's Fixation with Longevity and Control",
+      "preview": "I'm personally very bullish on the healthcare space with all the new technologies and AI...",
+      "date": "Mar 2026",
+      "category": "reflections",
+      "body": [
+        {
+          "tag": "p",
+          "text": "I'm personally very bullish on the healthcare space with all the new technologies and AI. \"Medicine 3.0\" is a new frontier,one where we stop treating disease reactively and start addressing it proactively."
+        },
+        {
+          "tag": "p",
+          "text": "I'm confident in a future where patients don't end up in hospitals for the top killers of humanity: cardiovascular disease, metabolic disease, and cancer. Imagine technologies that can screen for potential illnesses early, protein sequencing, stem cell regeneration, or genetic testing with your partner to assess disease risks for your future children. This paradigm shift in medicine is nothing short of amazing."
+        },
+        {
+          "tag": "p",
+          "text": "We're also seeing long-overdue progress in women's health, a field that's been historically under-researched and often skewed."
+        },
+        {
+          "tag": "p",
+          "text": "One reason I think Gen Z,especially women,are obsessed with health is because, for so long, women had no idea what was going on with their bodies. How to optimize for female hormones was never taught in school. The effects of hormonal birth control on fertility were brushed aside. Even menopause,what it is, how to manage symptoms,wasn't explained."
+        },
+        {
+          "tag": "p",
+          "text": "But now, thanks to the internet and social media, there's been an explosion of anecdotal testimonies: women opening up about hormonal diseases like PCOS, fertility struggles, or just the feeling of being unseen and unheard by the medical system."
+        },
+        {
+          "tag": "p",
+          "text": "That's why the \"wellness girlie\" trend is so big. Women are finally reclaiming control: taking supplements based on their cycles, working out in ways that align with their hormones, experimenting with nutrition and recovery. These trends aren't just aesthetics,they're rooted in decades of feeling dismissed. The new studies and technologies finally allow women to feel like they're in control of their own bodies."
+        },
+        {
+          "tag": "h3",
+          "text": "What Concerns Me"
+        },
+        {
+          "tag": "p",
+          "text": "But let's be real: not everything is rosy."
+        },
+        {
+          "tag": "p",
+          "text": "Say you take a Function Health, Superpower, or Nucleus test, and it shows you have a high risk for a certain disease. What happens when health insurance companies get their hands on this data? Even if it's \"anonymous,\" insurers can use internal systems and context clues to link results back to individuals. That's terrifying. If this doesn't change, the mainstream won't adopt it. Right now, it's mostly limited to biohackers who don't care about those risks."
+        },
+        {
+          "tag": "p",
+          "text": "The infrastructure for AI regulation in healthcare also isn't there. I'm a tech enthusiast, but these conversations around gene editing,and even embryo editing,are important. Where's the ethical line? What are the price points going to be? If only the rich can gene-edit their kids, will we end up with a two-class system: \"edited\" vs. \"non-edited\"? What happens when future generations live in a society where some kids were designed for perfection while others weren't? The same questions could apply to things like Neuralink."
+        },
+        {
+          "tag": "p",
+          "text": "Gen Z's obsession with health isn't vanity,it's survival. We've grown up in a broken system, and now we finally have the tools to question it, improve it, and reclaim control over our bodies."
+        }
+      ]
+    },
+    {
+      "id": "note-reflections-2",
+      "title": "Your Life Hasn't Actually Started Yet",
+      "preview": "If you're waiting for this one big achievement to happen to 'finally start living,' you've already lost...",
+      "date": "Mar 2026",
+      "category": "reflections",
+      "body": [
+        {
+          "tag": "p",
+          "text": "If you're waiting for this one big achievement to happen to \"finally start living,\" you've already lost."
+        },
+        {
+          "tag": "p",
+          "text": "The constant cycle of trying to hit the next milestone: grinding on that one project to hit 6-figures in ARR, the next job, the next move. Life is always moving, yet it feels like you're standing still on a platform, waiting for a train that hasn't arrived."
+        },
+        {
+          "tag": "em",
+          "text": "\"My life will begin after I graduate.\""
+        },
+        {
+          "tag": "em",
+          "text": "\"My life will begin after I get this one job.\""
+        },
+        {
+          "tag": "em",
+          "text": "\"My life will begin after I reach x valuation.\""
+        },
+        {
+          "tag": "p",
+          "text": "If you've ever had thoughts like this, you are experiencing the Deferred Life Hypothesis,a psychological trap where you perpetually view your current existence as a \"waiting room,\" a mere rehearsal for a \"real life\" that only starts once you achieve a certain level of success: a specific salary, a partner, or a promotion."
+        },
+        {
+          "tag": "p",
+          "text": "But here's the cold truth: the milestone is a moving target. If you don't learn to live now, you'll reach the finish line having spent your whole life preparing for something that never quite arrives."
+        },
+        {
+          "tag": "h3",
+          "text": "1. Kill the Notion That Achievement \"Completes\" You"
+        },
+        {
+          "tag": "p",
+          "text": "A 6-figure salary, a new zip code, or a new relationship will not kickstart your life. These are just accessories. If you can't find contentment today, you won't find it in the noise of a million dollars. Your life isn't a puzzle waiting for the final piece,it's the entire picture, even the unfinished parts. There is no \"arrival.\" There is only the process."
+        },
+        {
+          "tag": "h3",
+          "text": "2. Rewire Your Brain: The Future Is Accessible Now"
+        },
+        {
+          "tag": "p",
+          "text": "Waiting for \"one thing\" to happen before you improve yourself is a toxic form of stagnation. We see this in relationships,people who only start working out or dressing better once they have a partner to impress. In reality, you should be building that version of yourself today."
+        },
+        {
+          "tag": "p",
+          "text": "Don't wait for tomorrow when you can do it today."
+        },
+        {
+          "tag": "h3",
+          "text": "3. Live Like You Only Have 24 Hours"
+        },
+        {
+          "tag": "p",
+          "text": "If you're unsatisfied with your life but aren't doing anything to change it today, that's on you. Ask yourself: if your life stayed exactly like this for the next 10 years, would you be content? If the answer is no, then this is your sign to change."
+        },
+        {
+          "tag": "p",
+          "text": "Your life didn't start when you hit your goals. It started the moment you were born. Stop procrastinating on the only thing that matters."
+        }
+      ]
+    },
+    {
+      "id": "note-reflections-3",
+      "title": "Birth Control is not the Answer to Everything",
+      "preview": "Have you ever felt unwell, only to be told by doctors that nothing is physically wrong and that it's all in your head?",
+      "date": "Mar 2026",
+      "category": "reflections",
+      "body": [
+        {
+          "tag": "p",
+          "text": "Have you ever felt unwell, only to be told by doctors that nothing is physically wrong and that it's all in your head? Then, you're handed a prescription with a warning label longer than you can imagine. Unfortunately, this is a common experience for many women in America. They are often dismissed, misunderstood, and frustrated with a system that overlooks their concerns."
+        },
+        {
+          "tag": "p",
+          "text": "Many women feel unheard by healthcare providers, especially when complex health issues are reduced to hormonal imbalances treated solely with birth control. It's disheartening to feel like your health concerns are being brushed aside, especially when the prescribed 'solution' feels more like a quick fix than real care."
+        },
+        {
+          "tag": "p",
+          "text": "Historically, medical research and education have focused on male bodies, leading to a lack of understanding of women's health issues among healthcare providers. The anecdotes of women feeling unheard by their doctors are a common thing. I recall a time when I was feeling unwell and had concerns about my health and hormones. After discussing my symptoms with my gynecologist, the only solution she offered was to start taking oral birth control. She reassured me that it wouldn't affect my fertility, but I was left wondering if that was truly the best option for my situation."
+        },
+        {
+          "tag": "h3",
+          "text": "Downsides of Birth Control & Healthcare System for Women"
+        },
+        {
+          "tag": "p",
+          "text": "Dr. Mindy Pelz, a holistic health expert with over two decades of experience in the field, argues that birth control can have negative effects on a woman's natural hormone cycle because it artificially regulates the hormones that suppress the body's natural rhythms. Overtime birth control can lead to hormonal imbalances, affecting mood, energy levels, and long-term fertility. Dr. Mindy Pelz calls for more natural methods of managing hormonal health to support the body's natural cycle."
+        },
+        {
+          "tag": "p",
+          "text": "Dr. Natalie Crawford, a board-certified reproductive endocrinologist and fertility specialist, states that taking birth control pills can affect a woman's AMH (Anti-Müllerian Hormone), which indicates ovarian reserve (the number of eggs a woman has left) can be up to 30% lower in individuals. The Human Reproduction study by Dr. Petra Frank-Herrmann backs up this claim because it found that it would take several months for a woman's natural menstrual cycle and fertility to fully return after stopping hormonal contraceptives. That is why so many women develop PCOS or other hormonal issues after taking the pill for a long time."
+        },
+        {
+          "tag": "p",
+          "text": "For the sake of our health, there needs to be a change in the way that some doctors prescribe hormonal birth control for symptoms like cramps or irregular periods. Doctors will most often prescribe the birth control pill to regulate hormones or period symptoms, but it is only putting a bandage on the wound."
+        },
+        {
+          "tag": "p",
+          "text": "Looking at the financial incentives, insurance companies often cover medications like birth control more readily than comprehensive diagnostic tests or alternative treatments. This can lead to doctors prescribing birth control as a quick, cost-effective solution, rather than exploring more holistic or individualized treatments."
+        },
+        {
+          "tag": "h3",
+          "text": "What is the Remedy?"
+        },
+        {
+          "tag": "p",
+          "text": "We need more holistic doctors and medical professionals who are constantly reading new and updated studies about women's health. In the medical industry, it was always for men; Studies were done on men and remedies for men. Now more and more medical studies are coming out about hormones, menopause, and women's health that your doctor probably doesn't know about because they went to medical school 10+ years ago."
+        },
+        {
+          "tag": "p",
+          "text": "Dr. Sara Gottfried, a Harvard-trained gynecologist and New York Times bestselling author, stated that \"being female is a health hazard; we have twice the rate of depression, insomnia, we've got 3-4x increased risk of multiple sclerosis, we've got 5-8x the risk of thyroid dysfunction.\" We need more doctors who are open to hearing out our health concerns and have knowledge of updated studies about women's health because historical studies only capture a fraction of the picture."
+        },
+        {
+          "tag": "p",
+          "text": "Like many women, I've experienced the frustration of being offered birth control as the only answer. But this issue is bigger than just my experience, it's a systemic problem. There needs to be a shift in both medical education and healthcare policies to ensure women receive the attentive, individualized care we deserve. Addressing these systemic and financial barriers is essential for a more equitable and effective healthcare system."
+        }
+      ]
+    },
+    {
+      "id": "note-reflections-1",
+      "title": "The Legacy You Leave Behind: Why Your Story Matters",
+      "preview": "As I lay my Grandpa to rest this past week, hearing my mom and her siblings' stories about their lives in Vietnam...",
+      "date": "Mar 2026",
+      "category": "reflections",
+      "body": [
+        {
+          "tag": "p",
+          "text": "As I lay my Grandpa to rest this past week, and hearing my mom and her siblings' stories about their lives in Vietnam, it made me reflect on the legacy people leave behind,and what kind of legacy do I want to leave behind?"
+        },
+        {
+          "tag": "h3",
+          "text": "My Grandpa's Story"
+        },
+        {
+          "tag": "p",
+          "text": "Bich Vo, born July 17, 1938 in Hue, Vietnam. Went to university (which was rare during that time), met my grandma in 1966, worked for the South Vietnam Republic's government, and had 7 kids."
+        },
+        {
+          "tag": "p",
+          "text": "My mom and all her siblings grew up pretty wealthy and affluent,they had 3 caretakers at home at all times. But in 1975, that all changed when the North won the war and took over. The children were ages 7, 9, 11, 13, 14, 16, and 17."
+        },
+        {
+          "tag": "p",
+          "text": "They immediately came to my Grandpa's home and seized everything, sparing only one couch in the living room. Knowing he faced execution, my Grandpa left Vietnam with the two oldest children, went on a boat, and sailed the oceans. In 30 days they reached Hong Kong. For a year, they lived within the wire fences of a refugee camp, before a Church in Illinois sponsored them to come to the States. Around 15 years later, he had saved up enough money to fly over his wife and the rest of the 4 kids."
+        },
+        {
+          "tag": "h3",
+          "text": "The Family Left Behind"
+        },
+        {
+          "tag": "p",
+          "text": "Right when my Grandpa left, the communists came storming into their home, demanding details about where her husband was. My Grandma pleaded she didn't know. Suspicious, they took her into prison for 6 months,leaving the rest of the 5 kids, including my mom, alone with no parents."
+        },
+        {
+          "tag": "p",
+          "text": "This is when the village truly stepped in. My Great Aunt stepped up to care for the kids while my Grandma was in prison, even though she had her own problems,her husband had been taken to a concentration camp for his involvement with the South Democratic Military."
+        },
+        {
+          "tag": "p",
+          "text": "My Grandma was eventually released. None of the aunts or uncles know what happened in prison. It was never talked about. She barely got by, borrowing money from neighbors and paying it off little by little with what my Grandpa sent from his job as a cook at a local restaurant."
+        },
+        {
+          "tag": "p",
+          "text": "In 1987, my aunt,16 at the time,left first to Thailand to escape to the US. She stayed at a refugee camp for 2 years until my Grandpa could sponsor her. It took ten years of slaving away at odd jobs for my Grandpa to finally send the plane tickets to bring the rest of the family to Illinois. The youngest children, my mom and her 3 brothers, went back to high school and college. The older siblings started doing nails. My Grandma started working at the factory."
+        },
+        {
+          "tag": "p",
+          "text": "Then in 2005, my Grandma was diagnosed with pancreatic cancer and died that year,the love of my Grandpa's life. I don't think he was ever the same after her death. I was 2 years old. But I still remember looking over at my mom during that funeral and seeing a tear drip down her face,the first time I ever saw my mom cry."
+        },
+        {
+          "tag": "h3",
+          "text": "What Their Silence Carries"
+        },
+        {
+          "tag": "em",
+          "text": "\"It's hard to talk about, but it was dark times.\""
+        },
+        {
+          "tag": "p",
+          "text": "After that brief pause, they'd turn and laugh: \"Yea, that was rough.\" I can see it still hurts to think about. But I hope my curiosity for their story is somehow comforting,comforting to know that their story won't be lost to generations to come."
+        },
+        {
+          "tag": "p",
+          "text": "So to my dad, who has a secret exit plan if something ever goes wrong in America. To my mom, who keeps her cards close to her chest and values family above all. It's because they saw with their own eyes everything they ever had taken from them in the blink of an eye. The freedom and liberties they were born with were a false sense of reality that a lot of people forget,because stories like my family's aren't documented."
+        },
+        {
+          "tag": "p",
+          "text": "They saw how fast a life can be erased. By documenting this, I am trying to make sure that the resilience of Bich Vo and the strength of the woman he loved is never met with silence again."
+        },
+        {
+          "tag": "p",
+          "text": "The perseverance and resilience of my family still holds true today. The efforts that my parents' generation made to provide a better life for my siblings and cousins have made us into who we are today."
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "label": "Monday, October 5",
+      "events": [
+        {
+          "name": "Coffee Rave",
+          "href": "https://partiful.com/e/11dDP7w0bEuFxfDxn0Ik"
+        },
+        {
+          "name": "TokenTechWalk",
+          "href": "https://partiful.com/e/DsPTbR2dWA13OrJfvIkS"
+        },
+        {
+          "name": "Robots & Hardware Coffee @ Tesla Showroom",
+          "href": "https://partiful.com/e/cZeYjS7jFMT3xTv7PGSi"
+        },
+        {
+          "name": "Benefits & Backhands Padel Tournament",
+          "href": "https://partiful.com/e/q0ALGGEZ0ywgK0Pst52T"
+        },
+        {
+          "name": "Ship it & Sip it: Software Factories Night",
+          "href": "https://luma.com/copilo-y6wx"
+        }
+      ]
+    },
+    {
+      "label": "Tuesday, October 6",
+      "events": [
+        {
+          "name": "Eatopia Breakfast Lab: Build your nutrition protocol",
+          "href": "https://partiful.com/e/xWOLkVDQgoMXpVDvjYcd"
+        },
+        {
+          "name": "USS Hornet Deep Tech Demo Night",
+          "href": "https://luma.com/zja76ejz"
+        },
+        {
+          "name": "NYX Gathering @ SF Tech Week",
+          "href": "https://luma.com/4266q2zq"
+        }
+      ]
+    },
+    {
+      "label": "Wednesday, October 7",
+      "events": [
+        {
+          "name": "SoulCycle Class: Uplane x IM8",
+          "href": "https://partiful.com/e/0Vo7k5O74NB9LMPWHWQ1"
+        },
+        {
+          "name": "Dogs, Deals & Pet Longevity",
+          "href": "https://partiful.com/e/n3PRHhVirVygG2PHiTmZ"
+        },
+        {
+          "name": "Leverage IL w/ Anthropic, Greylock, Ribbit Capital, Palantir",
+          "href": "https://partiful.com/e/LSOZRoopaoWM9pOtr2Nn"
+        },
+        {
+          "name": "Demo Night — Corgi, EF, Infragrid",
+          "href": "https://partiful.com/e/zaE62kAf1JUoZxtdT82h"
+        }
+      ]
+    },
+    {
+      "label": "Thursday, October 8",
+      "events": [
+        {
+          "name": "Bring your agent to Breakfast",
+          "href": "https://partiful.com/e/ohe79rq9R52103Z0F9Eb"
+        },
+        {
+          "name": "Scaling without Risk: Compliance + Insurance for Startups",
+          "href": "https://luma.com/mdxzgzaa"
+        },
+        {
+          "name": "Founders Race Night",
+          "href": "https://luma.com/usecorgi-re50"
+        }
+      ]
+    },
+    {
+      "label": "Friday, October 9",
+      "events": [
+        {
+          "name": "Surf Meetup for Founders and Investors",
+          "href": "https://partiful.com/e/KgOCzb8B31LExsRqozKw"
+        },
+        {
+          "name": "Waves & Breakfast w/ CodeRabbit",
+          "href": "https://partiful.com/e/J618oGSk1kHzlncpKVxo"
+        },
+        {
+          "name": "SF Tech Week Tennis with Goodwin",
+          "href": "https://partiful.com/e/7MMfcCBeVQ1Ky9dfPljt"
+        },
+        {
+          "name": "Connecting over a game of H.O.R.S.E",
+          "href": "https://partiful.com/e/9z9KiW7tqtPfw3zuATDL"
+        },
+        {
+          "name": "a16z speedrun AI Faire",
+          "href": "https://partiful.com/e/WrF0Hv7cZLnp5fHzjYAC"
+        },
+        {
+          "name": "The Science of Speed: Tech Week Meets Fleet Week",
+          "href": "https://partiful.com/e/JddSOGkpUobJd3MxVzaV"
+        },
+        {
+          "name": "The Tech Week Flyover",
+          "href": "https://partiful.com/e/yvoeWd6BJMUB12yutJLl"
+        },
+        {
+          "name": "Live Blacksmithing with CoreWeave",
+          "href": "https://partiful.com/e/RqWSbc0B7ZyB4xSqHDVE"
+        },
+        {
+          "name": "Flex Capital Game Night",
+          "href": "https://partiful.com/e/qXmHuf4cdV1Qbxu9S1Tw"
+        },
+        {
+          "name": "The After Close — Speakeasy",
+          "href": "https://partiful.com/e/MNgD0Ir4CmpbvFRZ62VX"
+        },
+        {
+          "name": "The Happy Padel",
+          "href": "https://partiful.com/e/Q0gz7HnLW8EAfZfYgzWP"
+        },
+        {
+          "name": "rsvpmaxxing: the last RSVP of SF Tech Week",
+          "href": "https://partiful.com/e/DKJDTQfyiHkaQZyHNZsG"
+        },
+        {
+          "name": "Pixels After Dark: Art, Music & Computer Agents",
+          "href": "https://partiful.com/e/YUKBbGuv0GuGMQgCVxZB"
+        },
+        {
+          "name": "Ugly Talk: Founder Open Mic & Comedy",
+          "href": "https://partiful.com/e/Zc2QdFetungZZsOHD3h7"
+        },
+        {
+          "name": "Salsa Night",
+          "href": "https://partiful.com/e/GVhY6V6PWflIAfPlJyRa"
+        },
+        {
+          "name": "Kairo Pickleball Tournament",
+          "href": "https://partiful.com/e/kCt7uxz9ReNtOZEFQiZl"
+        },
+        {
+          "name": "Robotics Founders Dinner: The Robot Contest",
+          "href": "https://partiful.com/e/eYyNSr4sqM7JCYZWVeHL"
+        }
+      ]
+    },
+    {
+      "label": "Saturday, October 10",
+      "events": [
+        {
+          "name": "Canyon Group Ride",
+          "href": "https://partiful.com/e/7I6PwBBrBSQJ1LbIg2nx"
+        },
+        {
+          "name": "Runner Day: 5 Miles",
+          "href": "https://partiful.com/e/DsOVdt83IVy9joZyFYCZ"
+        },
+        {
+          "name": "Intro to Boxing for Tech Founders",
+          "href": "https://partiful.com/e/dXrYtMPEZoemltRowlgB"
+        },
+        {
+          "name": "Talk to Users Hackathon",
+          "href": "https://partiful.com/e/0FqprP2FJcBX3ogGRJmd"
+        },
+        {
+          "name": "Tech n Techno Breakfast Rave",
+          "href": "https://partiful.com/e/43PEuhssrkkUelS3fKcs"
+        },
+        {
+          "name": "Social Impact SF: Haight-Ashbury Walking Tour & Picnic",
+          "href": "https://partiful.com/e/MOZAwC3uEbt4SjkBpT55"
+        },
+        {
+          "name": "CarShowAndWine",
+          "href": "https://partiful.com/e/gbrzbkq3jIn2vZF9AlXm"
+        },
+        {
+          "name": "Oyster Bake 2026",
+          "href": "https://partiful.com/e/B1HKY3iS4ChgAbTFZ4Vf"
+        }
+      ]
+    }
+  ]
+}
